@@ -109,6 +109,7 @@ Config.AuthorizedVehicles = { -- Vehicles players can use based on their ambulan
 	-- Grade 4
 	[4] = {
 		["ambulance"] = "Ambulance",
+        ["nm_avent"] = "good car", --Modified
 	}
 }
 
